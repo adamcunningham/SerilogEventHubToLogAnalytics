@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "myvmeventhub_RootManageSharedAccessKey_EVENTHUB": "",
+    "WorkspaceId": "",
+    "SharedKey": "",
+    "LogName": "Serilog"
+  }
+}
